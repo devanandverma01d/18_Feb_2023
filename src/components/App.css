@@ -1,0 +1,14 @@
+header {
+    height: 150px;
+    border: 2px dashed red;
+}
+
+footer {
+    height: 300px;
+    border: 2px dashed green;
+}
+
+main {
+    min-height: 500px;
+    border: 2px dashed blue;
+}
